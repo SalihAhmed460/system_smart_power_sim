@@ -1,0 +1,1 @@
+[{"timestamp": "2025-03-08 07:04:33", "parameters": {"generations": 10, "initial_neutrons": 1, "fission_prob": 0.7, "neutrons_per_fission": 3.0, "pred_gens": 5}, "results": {"generations": 10, "initial_neutrons": 1, "final_neutrons": 
